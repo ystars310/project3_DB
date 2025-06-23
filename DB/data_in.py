@@ -41,8 +41,8 @@ location_df = location_df.iloc[1:,:]
 karaoke_df = location_df[["브랜드","지점명","주소","Latitude","Longitude"]].copy()               # 필요한 컬럼만 복사
 karaoke_df = karaoke_df.drop_duplicates().reset_index(drop=True)                          
 karaoke_df.columns = [f"karaoke_{i}" for i in ["name","store","location","lat","long"]]         # DB 컬럼 이름 확인및 변경
-###############
-# insert                # DB 연결 설정 ( MySQL, root 계정, 비밀번호 song, 포트 3100, DB명)
+##
+# insert                # DB 연결 설정 ( MySQL, root 계정, 비밀번호 ,포트 , DB명)
 db_info = f"mysql+pymysql://root:song@localhost:3100/music_ai_2"
 engine = create_engine(db_info, connect_args={})
 
