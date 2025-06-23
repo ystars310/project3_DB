@@ -6,8 +6,7 @@
 
  
 
-<img src="![music_ai_6-1최종 ERD].jpg"
-width="700px" height="500"></img><br/>
+<img src="![music_ai_6-1최종 ERD].jpg" width="700px" height="500"></img><br/>
 
 
 
