@@ -6,7 +6,7 @@
 
  
 
-<img src="![music_ai_6-1최종 ERD](https://github.com/user-attachments/assets/f3cde9b7-111a-4e32-b026-3d6bbecd6f13)"
+<img src="![music_ai_6-1최종 ERD].jpg"
 width="700px" height="500"></img><br/>
 
 
