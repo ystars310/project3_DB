@@ -7,7 +7,7 @@
  
 
 
-<img src="![music_ai_6-1최종 ERD](https://github.com/user-attachments/assets/1e19ec62-7b22-4840-b81b-dd6320400315)" width="700px" height="500px"></img><br/>
+<img src="![music_ai_6-1최종 ERD](https://github.com/user-attachments/assets/1e19ec62-7b22-4840-b81b-dd6320400315)" width="700px" height="500px" title"px 100" alt="ERD"></img><br/>
 
 
 
