@@ -1,5 +1,5 @@
 
-# project_music_ai
+# music_ai_data
 
 
 ## 별도로 추가 데이터 수집 
