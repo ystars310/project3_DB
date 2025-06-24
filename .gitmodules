@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/JSH02-20/frontend.git
+
+
+[submodule "backend"]
+	path = project-backend
+	url = https://github.com/yuhyun9800/project-backend.git
