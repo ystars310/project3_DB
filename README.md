@@ -1,1 +1,1 @@
-# project_music_ai
+# 1. AI기반 음악추천 front
