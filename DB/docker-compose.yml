@@ -11,5 +11,5 @@ services:
     ports:
       - 3100:3306
     environment:
-      - MYSQL_ROOT_PASSWORD=****
-      - MYSQL_DATABASE=project_3
+      - MYSQL_ROOT_PASSWORD=********
+      - MYSQL_DATABASE=project_
