@@ -18,4 +18,5 @@
   - docker desktop
   - MySQL Workbench
 
- 
+ ## License
+ 코드 사용시 연락 주시고 사용해주시면 감사하겠습니다
