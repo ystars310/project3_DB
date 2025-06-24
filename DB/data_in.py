@@ -43,7 +43,7 @@ karaoke_df = karaoke_df.drop_duplicates().reset_index(drop=True)
 karaoke_df.columns = [f"karaoke_{i}" for i in ["name","store","location","lat","long"]]         # DB 컬럼 이름 확인및 변경
 ##
 # insert                # DB 연결 설정 ( MySQL, root 계정, 비밀번호 ,포트 , DB명)
-db_info = f"mysql+pymysql://root:song@localhost:3100/music_ai_2"
+db_info = f"mysql+pymysql://root:root@localhost:3100/music_ai_2"
 engine = create_engine(db_info, connect_args={})
 
 # 장르를 기준으로 각 테이블에 데이터 삽입
