@@ -4,8 +4,8 @@
 [![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
 [![GoogleSheets](https://img.shields.io/badge/GoogleSheets-339933?logo=GoogleSheets&logoColor=fff)](#)
-[![GoogleSheets](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://GoogleSheets/{handle})
 
+[![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/badges/shields)
 
 + AI기반 음악을 추천해주는 기능으로써  장르,노래,가수,가사내용을 입력하면 관련 음악과 정보를 제공해줌                                    
 + 정보제공과 함께 youtube API를 활용한 링크추천, 좀더 자세한 정보를 위한 음악사이트링크도 함께 제공해줌                                     
