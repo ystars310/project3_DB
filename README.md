@@ -1,9 +1,8 @@
 # 💡 프로젝트 소개 
 ## 주요 기능
-![python](https://img.shields.io/badge/python-3.8-1177AA.style=flat-round&logo=python&logoColor=white)
 ![Badge](https://img.shields.io/badge/python-3.8-1177AA.svg?style=flat-round)
 ![Badge](https://img.shields.io/badge/Licence-GPL-1177AA.svg?style=flat-round)
-[![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=css3&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=css3&logoColor=fff)](#)
 
 
