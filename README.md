@@ -16,8 +16,8 @@
 
 ### python package 
 ```
-pip install -r requirements.txt
 conda env create -f environment.yml
+pip install -r requirements.txt
 ```
 
 ## 개발환경
