@@ -3,7 +3,6 @@
 ![Badge](https://img.shields.io/badge/python-3.8-1177AA.svg?style=flat-round)
 [![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
-[![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
 [![GoogleSheets](https://img.shields.io/badge/GoogleSheets-E34F26?logo=GoogleSheets&logoColor=fff)](#)
 
 
