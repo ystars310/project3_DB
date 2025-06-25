@@ -26,11 +26,5 @@ conda env create -f environment.yml
 pip install -r requirements.txt
 ```
 
-## 개발환경
-  - Python 3.8.0
-  - docker desktop
-  - MySQL Workbench
-  - Google Sheets
-
  ## License
  **코드 사용시 연락 주시고 사용해주시면 감사하겠습니다**
