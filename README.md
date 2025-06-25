@@ -1,11 +1,11 @@
 # 💡 프로젝트 소개 
 ## 주요 기능
-![Badge](https://img.shields.io/badge/python-3.8-1177AA.style=for-the-badge&logo=python&logoColor=white"style=flat-round)
+![Badge](https://img.shields.io/badge/python-3.8-1177AA.style=for-the-badge&logo=python&logoColor=white.style=flat-round)
 ![Badge](https://img.shields.io/badge/python-3.8-1177AA.svg?style=flat-round)
 ![Badge](https://img.shields.io/badge/Licence-GPL-1177AA.svg?style=flat-round)
 [![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=css3&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=css3&logoColor=fff)](#)
-style=for-the-badge&logo=python&logoColor=white">
+
 
 + AI기반 음악을 추천해주는 기능으로써  장르,노래,가수,가사내용을 입력하면 관련 음악과 정보를 제공해줌                                    
 + 정보제공과 함께 youtube API를 활용한 링크추천, 좀더 자세한 정보를 위한 음악사이트링크도 함께 제공해줌                                     
