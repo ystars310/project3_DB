@@ -20,7 +20,7 @@
 + 노래연습장 데이터는 몇개의 브랜드를 추려 필요한 데이터를 수집하였습니다.
   - 링코, 락휴, 세븐스타, 엔젤스코인등 웹사이트를 이용
 
-### python package 
+### Python package 
 ```
 conda env create -f environment.yml
 pip install -r requirements.txt
