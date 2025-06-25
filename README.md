@@ -4,7 +4,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
-[![Google Sheets](https://img.shields.io/badge/Docker-E34F26?logo=Google Sheets&logoColor=fff)](#)
+[![GoogleSheets](https://img.shields.io/badge/Docker-E34F26?logo=GoogleSheets&logoColor=fff)](#)
 
 
 + AI기반 음악을 추천해주는 기능으로써  장르,노래,가수,가사내용을 입력하면 관련 음악과 정보를 제공해줌                                    
