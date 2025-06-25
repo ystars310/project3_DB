@@ -14,8 +14,9 @@
 + 노래연습장 데이터는 몇개의 브랜드를 추려 필요한 데이터를 수집하였습니다.
   - 링코, 락휴, 세븐스타, 엔젤스코인등 웹사이트를 이용
 
-##사용 패키지 
-``` pip install -r requirements.txt ```
+## 사용 패키지 
+``` pip install -r requirements.txt
+```
 
 ## 개발환경
   - Python 3.8.0
