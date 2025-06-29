@@ -12,7 +12,7 @@
 <details>
 <summary>별도로 추가 데이터 수집</summary>     
 
-
+                               
 requests를 요청한 Buautifulsoup을 이용한 방식으로 데이터 수집
 + **2025.06.05(목) ~ 2025.06.16(월)까지 진행**                                                                              
 ```dataset파일출처 주식회사 카카오 AI추천플랫폼Team```
