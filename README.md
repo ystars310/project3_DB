@@ -35,8 +35,8 @@
 제공받아 2만 7천 건을 활용하여 진행하였으며, 추가적으로 필요한 데이터는 크롤링을 활용하여 수집 하였음
 
 <datalis>
-<summary>🎵 데이터 수집 자세히 보기</summary>                                                                                                                  
-<br>
+<summary>🎵 데이터 수집 자세히 보기</summary>
+  <br>
 - (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용
 
 **[노래 정보 자료]**
@@ -71,7 +71,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 ![ERD](https://github.com/user-attachments/assets/1f401fef-1461-4b28-ab76-d651327c04b0)
 
  
-### installation
+## installation
 
 데이터 베이스는 docker 를 통해 구동 가능하며, 데이터 수집 정재는 아래 python 패키지 설치 후 구동 가능합니다.
 
