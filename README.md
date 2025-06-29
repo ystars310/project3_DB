@@ -83,14 +83,14 @@ cd db
 ```
 
 ```
-# .env 생성 -> 비밀번호 설정
+<sub># .env 생성 -> 비밀번호 설정</sub>
 docker-compose up -d
 
-# develop 사용자 생성
+<sub># develop 사용자 생성</sub>
 CREATE USER 'develop'@'%' IDENTIFIED BY 'your_secure_password';
 GRANT SELECT ON music.* TO 'develop'@'%';
 FLUSH PRIVILEGES;
-# 유저 목록 조회
+<sub># 유저 목록 조회</sub>
 SELECT User, Host FROM mysql.user;
 ```
 
