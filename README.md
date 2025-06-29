@@ -6,7 +6,7 @@
 
 ---
 
-![시연](![ERD](https://github.com/user-attachments/assets/프로젝트시현영상.gif)
+![시연](https://github.com/user-attachments/assets/프로젝트시현영상.gif)
 
 ## 💡 개발 배경 및 목적
   
