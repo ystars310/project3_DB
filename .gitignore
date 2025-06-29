@@ -1,0 +1,6 @@
+source/meta.json
+export
+Mysql
+schema
+__pycache__
+.env
