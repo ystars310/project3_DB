@@ -149,7 +149,8 @@ class Sample(torch.utils.data.Dataset):
             반환값 설명
         """
         return []
-
+  </details>      
+</details>
 
 + 이 코드 및 가이드라인 저작권 보호를 받으며, 무단 복제, 배포, 수정이 금지됩니다.
 
