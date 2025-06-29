@@ -36,7 +36,7 @@
 
 <datalis>
 <summary>🎵 데이터 수집 자세히 보기</summary>                                                                                                                  
-
+<br>
 - (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용
 
 **[노래 정보 자료]**
@@ -72,7 +72,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 
  
 ### installation
----
+
 데이터 베이스는 docker 를 통해 구동 가능하며, 데이터 수집 정재는 아래 python 패키지 설치 후 구동 가능합니다.
 
 ## 📦 DataBase 구동
