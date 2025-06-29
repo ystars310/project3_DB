@@ -37,8 +37,7 @@
 
 <detalis>
 <summary>🎵 데이터 수집 자세히 보기</summary>
-  
-- (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용
+ - (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용
 
 **[노래 정보 자료]**
 
