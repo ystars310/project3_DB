@@ -110,6 +110,7 @@ FLUSH PRIVILEGES;
 # 유저 목록 조회
 SELECT User, Host FROM mysql.user;
 ```
+____
 
 ## 📦 Python package
 
@@ -117,6 +118,8 @@ SELECT User, Host FROM mysql.user;
 conda env create -f environment.yml
 pip install -r requirements.txt
 ```
+____
+
 ## ©️License
 본 프로젝트의 코드는 비상업적 용도로 자유롭게 사용하실 수 있습니다.
 상업적 이용이나 수정, 재배포 시에는 사전 연락을 부탁드립니다.
