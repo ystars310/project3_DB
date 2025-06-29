@@ -35,30 +35,30 @@
 제공받아 2만 7천 건을 활용하여 진행하였으며, 추가적으로 필요한 데이터는 크롤링을 활용하여 수집 하였음
 
 <datalis>
-<summary>🎵 데이터 수집 자세히 보기</summary>
+<summary>🎵 데이터 수집 자세히 보기</summary>                                                                                                                  
 
 - (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용
 
 **[노래 정보 자료]**
 
-가사 정보 미제공으로 melon 사이트에서 가사 자료 수집
-정재 과정을 통해 최종적으로 2만 건의 자료 추출
++ 가사 정보 미제공으로 melon 사이트에서 가사 자료 수집
++ 정재 과정을 통해 최종적으로 **2만 건**의 자료 추출
 
 **[노래방 위치 정보 자료]**
 
 
-노래방 위치 정보를 제공하기 위해 5개 사이트에서 주소 정보 수집( 600건의 정보를 수집 )
-정재 과정을 통해 최종적으로 570건의 자료 추출
++ 노래방 위치 정보를 제공하기 위해 5개 사이트에서 주소 정보 수집( 600건의 정보를 수집 )
++ 정재 과정을 통해 최종적으로 **570건**의 자료 추출
 
-수집된 주소 정보를 위/경도로 변환(Geocode Awesome Table 활용)
++ 수집된 주소 정보를 위/경도로 변환(Geocode Awesome Table 활용)
 
 
 Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_locations.py 참고)
 
 
-[락휴](https://www.rockq.co.kr/franchise/list?area=&area2=&area2&text=&page=1), [큐코인](http://qcbang.co.kr/store/store_info.php),
-[세븐스타](https://www.7starcoin.co.kr), [엔젤스코인](https://www.angelscoin.co.kr/child/sub/spot/?ptype=&page=1&code=spot), [링코](https://rinkotown.co.kr/sub/store.html)
-
++ [락휴](https://www.rockq.co.kr/franchise/list?area=&area2=&area2&text=&page=1), [큐코인](http://qcbang.co.kr/store/store_info.php),
+  [세븐스타](https://www.7starcoin.co.kr), [엔젤스코인](https://www.angelscoin.co.kr/child/sub/spot/?ptype=&page=1&code=spot), [링코](https://rinkotown.co.kr/sub/store.html)
+    
 </datalis>
 
 ## 💾 데이터 정제 및 테이블 설계
@@ -72,7 +72,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 
  
 ### installation
-
+---
 데이터 베이스는 docker 를 통해 구동 가능하며, 데이터 수집 정재는 아래 python 패키지 설치 후 구동 가능합니다.
 
 ## 📦 DataBase 구동
@@ -82,18 +82,20 @@ git clone https:/https://github.com/ystars310/project3_DB
 cd db
 ```
 
-```bash
-#.env 생성 -> 비밀번호 설정
+```
+# .env 생성 -> 비밀번호 설정
 docker-compose up -d
 
-#develop 사용자 생성
+# develop 사용자 생성
 CREATE USER 'develop'@'%' IDENTIFIED BY 'your_secure_password';
 GRANT SELECT ON music.* TO 'develop'@'%';
 FLUSH PRIVILEGES;
-#유저 목록 조회
+# 유저 목록 조회
 SELECT User, Host FROM mysql.user;
 ```
+
 ## 📦 Python package
+
 ```bash
 conda env create -f environment.yml
 pip install -r requirements.txt
