@@ -23,7 +23,7 @@ title="px 100"
 alt="ERD"></img><br/>
 
 <img 
-src="(./DB/ERD.PNG)"
+src=("./DB/ERD.PNG")
 width="700px"
 height="400px"
 title="px 100"
