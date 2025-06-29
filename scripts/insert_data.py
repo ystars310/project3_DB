@@ -1,5 +1,8 @@
 import pandas as pd
+import numpy as np
+import os
 from sqlalchemy import create_engine, text
+
 
 song = pd.read_excel("./csv/or/20250616/single_album_date.xlsx")  # 노래 데이터
 song = song.iloc[:,1:]          #첫 번째 열 (인덱스나 불필요한 열)제거  
