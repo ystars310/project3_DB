@@ -10,7 +10,7 @@
 + 협업 시 코드의 일관성을 유지함으로 써 가독성 향상 및 유지보수 용이성 확보
 
 <details>
-<summary>표기법</summary>     
+<summary>표기법</summary>       
   <details>
   <summary>변수/함수 명칭에 따른 표기법</summary> 
 
@@ -71,84 +71,84 @@
   <summary>괄호 위치에 따른 분류</summary>   
 
 
-1.K&R
-
-
-+ 한 눈에 많은 코드를 볼 수 있음
-+ 수평으로 많은 코드를 작성할 수 있음
-
-```
-if (...){
-  처리1();
-  처리2();
-}
-```
-
-
-2.BSD
-
-```
-if (...)
-{
-  처리1();
-  처리2();
-}
-```
-
-
-3GNU
-
-```
-if (...)
+  1.K&R
+  
+  
+  + 한 눈에 많은 코드를 볼 수 있음
+  + 수평으로 많은 코드를 작성할 수 있음
+  
+  ```
+  if (...){
+    처리1();
+    처리2();
+  }
+  ```
+  
+  
+  2.BSD
+  
+  ```
+  if (...)
   {
     처리1();
     처리2();
   }
-```
-</details>
-
-
-<details>
-<summary>코드 작성 예시</summary>   
-
-
-# python Class 작성 예시
-import torch
-class Sample(torch.utils.data.Dataset):
-    """
-    클래스의 설명
-
-    Attributes:
-    -----------
-    param : str
-        파라미터의 설명
-
-    Methods:
-    ----------
-    a() -> list:
-        함수 기능 설명
-    """
-    def __init__(self, param: str):
-        """
-        클래스의 인스턴스 초기화
-
-        Parameters:
-        ----------
-        param : str
-            파라미터의 설명
-        """
-        self.param = param
-
-    def myMethod(self) -> list:
-        """
-        함수 기능 설명
-
-        Returns:
-        ----------
-        list
-            반환값 설명
-        """
-        return []
+  ```
+  
+  
+  3GNU
+  
+  ```
+  if (...)
+    {
+      처리1();
+      처리2();
+    }
+  ```
+  </details>
+  
+  
+  <details>
+  <summary>코드 작성 예시</summary>   
+  
+  
+  # python Class 작성 예시
+  import torch
+  class Sample(torch.utils.data.Dataset):
+      """
+      클래스의 설명
+  
+      Attributes:
+      -----------
+      param : str
+          파라미터의 설명
+  
+      Methods:
+      ----------
+      a() -> list:
+          함수 기능 설명
+      """
+      def __init__(self, param: str):
+          """
+          클래스의 인스턴스 초기화
+  
+          Parameters:
+          ----------
+          param : str
+              파라미터의 설명
+          """
+          self.param = param
+  
+      def myMethod(self) -> list:
+          """
+          함수 기능 설명
+  
+          Returns:
+          ----------
+          list
+              반환값 설명
+          """
+          return []
   </details>      
 </details>
 
