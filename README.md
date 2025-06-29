@@ -35,8 +35,9 @@
 자료는 노래 정보, 노래방 정보를 수집하였으며, 노래 자료는 2020년 카카오 아레나 대회 당시 참가자에게 제공되었던 70만건의 데이터셋을                                
 제공받아 2만 7천 건을 활용하여 진행하였으며, 추가적으로 필요한 데이터는 크롤링을 활용하여 수집 하였음                       
 
-<detalis>
-<summary>🎵 데이터 수집 자세히 보기</summary>
+<details>
+<summary>🎵 데이터 수집 자세히 보기</summary>                                          
+  
  - (주) 카카오 AI추천 플렛폼에서 제공 받은 dataset을 활용                            
   
   **[노래 정보 자료]**
@@ -59,7 +60,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 + [락휴](https://www.rockq.co.kr/franchise/list?area=&area2=&area2&text=&page=1), [큐코인](http://qcbang.co.kr/store/store_info.php),
   [세븐스타](https://www.7starcoin.co.kr), [엔젤스코인](https://www.angelscoin.co.kr/child/sub/spot/?ptype=&page=1&code=spot), [링코](https://rinkotown.co.kr/sub/store.html)
     
-</detalis>
+</details>
 
 ## 💾 데이터 정제 및 테이블 설계
 
