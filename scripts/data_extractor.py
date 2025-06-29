@@ -30,4 +30,4 @@ with open(input_json_path, 'r', encoding='utf-8') as f_json:
 df = pd.DataFrame(rows)
 df.to_excel(output_excel_path, index=False)
 
-print(f"변환 완료! excel 파일 위치: {output_excel_path}")
+print(f"변환 완료! excel 파일 위치: {output_excel_path}")   # 데이터 변환후 데이터수 70만개 
