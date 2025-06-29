@@ -6,7 +6,7 @@
 
 ---
 
-![시연]C:\Users\Administrator\Desktop\휴먼교육센터\프로젝트_3\구현모음집\프로젝트시현영상.gif)
+![시연](C:\Users\Administrator\Desktop\휴먼교육센터\프로젝트_3\구현모음집\프로젝트시현영상.gif)
 
 ## 💡 개발 배경 및 목적
   
