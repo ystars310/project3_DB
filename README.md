@@ -80,7 +80,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 + 데이터베이스 정규화(BCNF)를 진행
 + 보안을 고려하여 유저 정보는 별도의 테이블로 분리
 
-![ERD](https://github.com/user-attachments/assets/1f401fef-1461-4b28-ab76-d651327c04b0)
+![ERD](./DB/ERD.png)
 
  
 ## installation
