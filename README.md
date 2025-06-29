@@ -77,12 +77,12 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 
 ## 📦 DataBase 구동
 
-```bash
+``` bash
 git clone https:/https://github.com/ystars310/project3_DB
 cd db
 ```
 
-```
+``` bash
 # .env 생성 -> 비밀번호 설정
 docker-compose up -d
 
