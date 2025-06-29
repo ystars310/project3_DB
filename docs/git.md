@@ -23,3 +23,13 @@
 + refactor : 코드 리팩토링 (기능 변경 없이 코드 개선)
 + test : 테스트 코드 추가 또는 수정
 + clore : 빌드 관련 작업, 패키지 메니져 설정 등(코드 변경 없음)
+
+```
+feat: add user profile page
+fix: resolve NPE in authentication service
+docs: update README with installation steps
+refactor: simplify user authentication logic
+test: add unit tests for payment service
+chore: update npm dependencies
+```
+[참고문헌](https://velog.io/@changonna/Git-Commit-Message-%EC%9E%91%EC%84%B1%EB%B2%95)
