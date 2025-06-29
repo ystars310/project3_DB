@@ -112,7 +112,7 @@
   <details>
   <summary>코드 작성 예시</summary>   
   
-  
+```  
   # python Class 작성 예시
   import torch
   class Sample(torch.utils.data.Dataset):
@@ -150,6 +150,7 @@
               반환값 설명
           """
           return []
+```
   </details>      
 </details>        
 
