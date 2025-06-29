@@ -2,12 +2,14 @@
 #  🎧사용자 감정 기반 음악 추천 서비스
 
 본 프로젝트는 **사용자의 감정을 고려**하여 노래를 추천해주는 서비스입니다.                                           
-사용자가 입력한 채팅 정보를 직접 수집한 2만 여건의 노래의 가사를 기반으로 생성한 벡터 스토어를 통해 분석하여 적합한 노래를 추천합니다.
+사용자가 입력한 채팅 정보를 직접 수집한 2만 여건의 노래의 가사를 기반으로 생성한 벡터 스토어를 통해 분석하여 적합한 노래를 추천합니다.      
+
 
 ![Badge](https://img.shields.io/badge/python-3.8-1177AA.svg?style=flat-round)
 [![MySQL](https://img.shields.io/badge/MySQL-1572B6?logo=mysql&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-1572B6?logo=docker&logoColor=fff)](#)
 [![GoogleSheets](https://img.shields.io/badge/GoogleSheets-339933?logo=GoogleSheets&logoColor=fff)](#)
+[![Geocode-Awesome_Table](https://img.shields.io/badge/Geocode-Awesome_Table-4A90E2?logo=googlemaps&logoColor=white)](#)
 
 
 ![시연](./DB/프로젝트시현영상.gif)
