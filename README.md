@@ -131,6 +131,7 @@ ____
 
 데이터 출처 : (주) 카카오 AI추천플랫폼Team
 
+____
 ## 👨‍💻👩‍💻 Collaborator
 
 개발담당 : 장선호(Frontend 담당), 김유현(Backend 담당)
