@@ -75,6 +75,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
   [세븐스타](https://www.7starcoin.co.kr), [엔젤스코인](https://www.angelscoin.co.kr/child/sub/spot/?ptype=&page=1&code=spot), [링코](https://rinkotown.co.kr/sub/store.html)
     
 </details>
+___
 
 ## 💾 데이터 정제 및 테이블 설계
 
@@ -85,7 +86,7 @@ Requests, Selenium, Beautifulsoup 패키지 활용(scripts/crawling/karaoke_loca
 
 ![ERD](./DB/ERD.PNG)
 
- 
+___
 ## installation
 
 데이터 베이스는 docker 를 통해 구동 가능하며, 데이터 수집 정재는 아래 python 패키지 설치 후 구동 가능합니다.
