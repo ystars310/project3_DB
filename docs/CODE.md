@@ -11,6 +11,7 @@
 
 <details>
 <summary>표기법</summary>       
+    
   <details>
   <summary>변수/함수 명칭에 따른 표기법</summary> 
 
