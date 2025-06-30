@@ -1,4 +1,4 @@
-# DBschema.sql
+## DBschema.sql
 
 
 ### DB 구조는 RDBM (관계형 데이터베이스 방식)
