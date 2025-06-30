@@ -1,5 +1,6 @@
-CREATE DATABASE  IF NOT EXISTS `music`;
-USE `music`; 
+CREATE DATABASE  IF NOT EXISTS `music_ai_2`;
+music_ai_2;
+USE `music_ai_2`; 
 
 CREATE TABLE `song` (
   `song_id` bigint NOT NULL,
